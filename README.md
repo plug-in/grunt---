@@ -32,7 +32,7 @@ grunt的插件库：https://github.com/gruntjs/；这里面有n多个grunt的插
 此时命令行中输入npm回车；如出现npm不是可执行命令提示，说明你未成功安装node.js
 
 解决方法：1）卸载node，重新安装；
-2）检查环节变量，找到带有npm的环境变量，在其后添加：node.js字样；重启机器;
+2）检查环境变量，找到带有npm的环境变量，在其后添加：node.js字样；重启机器;
 
 2.2、安装grunt工具步骤：
 
